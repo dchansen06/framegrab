@@ -13,5 +13,7 @@ Use at your own risk, an improper video or other issue may not have the indended
 
 ## Installation
 ```$ chmod a+x framegrab.sh```
+
 ```$ cd TO_A_EMPTY_DIRECTORY_PREFERABLY```
+
 ```$ ./framegrab.sh --png /path/to/video.mp4```
