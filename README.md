@@ -2,6 +2,8 @@
 A short program to take an input video, and then spit out every set amount of frames
 
 ## Usage
+Install [ffmpeg(1)](https://linux.die.net/man/1/ffmpeg) if you do not have it already.
+
 Set the video filename(s) to be the arguments, as many as needed.
 
 Set current directory to be the location where the frames should be. I highly reccomend you make sure it is empty so that you can remove the whole directory later.
