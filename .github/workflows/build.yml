@@ -12,5 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: ShellCheck
-      uses: ludeeus/action-shellcheck@latest
-          
+      uses: ludeeus/action-shellcheck@main
