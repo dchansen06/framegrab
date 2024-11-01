@@ -12,7 +12,7 @@ then
 	echo "Specify by setting the first argument to the desired format (ie --tiff / --tif / -t)"
 	echo
 	echo "Supported options include"
-	echo "Display help	--help"
+	echo "Display help		--help"
 	echo "Use jpeg		--jpeg, --jpg, -j"
 	echo "Use png		--png, -p"
 	echo "Use gif		--gif, -g"
