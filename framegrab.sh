@@ -6,7 +6,7 @@ HELP=("help" "h" "info" "?" "--help" "-h" "--info" "-?")
 
 if [[ "${HELP[@]}" =~ $1 ]]
 then
-	echo "Set the video filename(s) to be as arguments, as many as needed"
+	echo "Set the video filename(s) to be the arguments, as many as needed"
 	echo "Set current directory to be the location where the frames should be"
 	echo "Options include jpeg (default), png, gif, tiff, webp, ppm, bmp"
 	echo "Specify by setting the first argument to the desired format (ie --tiff / --tif / -t)"
