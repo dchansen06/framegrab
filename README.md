@@ -1,3 +1,4 @@
+[![Check](https://github.com/dchansen06/framegrab/actions/workflows/check.yml/badge.svg)](https://github.com/dchansen06/framegrab/actions/workflows/check.yml)
 # framegrab
 A short program to take an input video, and then spit out every set amount of frames
 
