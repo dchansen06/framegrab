@@ -11,7 +11,7 @@ Options include jpeg (default), png, gif, tiff, webp, ppm, and bmp, specify by s
 ## Disclaimer
 Use at your own risk, an improper video or other issue may not have the indended result. Be careful not to overwrite your files.
 
-## Installation
+## Usage
 ```$ chmod a+x framegrab.sh```
 
 ```$ cd TO_A_EMPTY_DIRECTORY_PREFERABLY```
